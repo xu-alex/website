@@ -1,5 +1,5 @@
 ---
-title: MCP客户端启动器
+title: MCP服务端启动器
 keywords: [Spring AI,通义千问,百炼,智能体应用]
 description: "Spring AI Alibaba MCP客户端启动器"
 ---
